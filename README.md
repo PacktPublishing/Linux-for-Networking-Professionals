@@ -42,7 +42,7 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781800202399_ColorImages.pdf).
 
 ## Errata
-*Page 55 (table, row 8, column 2): 'tcp/443' _should be_'udp/514' 
+* Page 55 (table, row 8, column 2): 'tcp/443' _should be_'udp/514' 
 
 ### Related products
 * Mastering Linux Administration [[Packt]](https://www.packtpub.com/product/mastering-linux-administration/9781789954272?utm_source=github&utm_medium=repository&utm_campaign=9781789954272) [[Amazon]](https://www.amazon.com/dp/1789954274)
