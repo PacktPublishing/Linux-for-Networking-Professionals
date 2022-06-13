@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B16336?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Linux for Networking Professionals
 
 <a href="https://www.packtpub.com/product/linux-for-networking-professionals/9781800202399?utm_source=github&utm_medium=repository&utm_campaign=9781800202399"><img src="https://static.packt-cdn.com/products/9781800202399/cover/smaller" alt="Linux for Networking Professionals" height="256px" align="right"></a>
