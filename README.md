@@ -55,3 +55,7 @@ is a consultant with Coherent Security in Ontario, Canada. He is a volunteer wit
 His areas of specialization include all facets of information security, network infrastructure, network and data center design, IT automation, orchestration, and virtualization. Rob has developed tools for ensuring policy compliance for VPN access users, a variety of networking tools native to Cisco IOS, as well as security audit/assessment tools for both Palo Alto Networks Firewall and VMware vSphere.
 Rob has a master's degree in information security engineering from the SANS Technology Institute and holds a variety of SANS/GIAC, VMware, and Cisco certifications
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800202399">https://packt.link/free-ebook/9781800202399 </a> </p>
